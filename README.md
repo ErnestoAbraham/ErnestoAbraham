@@ -72,7 +72,7 @@ Technical Consultant con experiencia entregando soluciones **Oracle Cloud** en e
 | 🤖 OCI Generative AI Professional | 2024 |
 | 🏗️ OCI Migration Architect Certified Professional | 2025 |
 | 📊 OCI Data Science Professional | 2025 |
-| 🔧 Oracle APEX Cloud Developer Certified Professional | - |
+| 🔧 Oracle APEX Cloud Developer Certified Professional | 2023 |
 
 ---
 
@@ -83,7 +83,6 @@ Technical Consultant con experiencia entregando soluciones **Oracle Cloud** en e
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [🎬 YouTube Clone](https://github.com/ErnestoAbraham/youtube-clone) | Interfaz visual de YouTube con React | React, CSS3, JavaScript |
-| [🌐 Portafolio](https://github.com/ErnestoAbraham/portafolio) | Portafolio personal de proyectos | HTML, CSS |
 | 🚧 *En desarrollo* | Próximamente proyectos Oracle Cloud... | OCI, OIC |
 
 </div>
